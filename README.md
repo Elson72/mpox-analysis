@@ -1,14 +1,14 @@
 # Mpox Africa Analysis
 
 ## Outline
-[Introduction](introduction)
-[Project Overview](project overview)
-[Tools](tools)
-[Data Cleaning/Preparation](data cleaning/preparation)
-[Exploratory Data Analysis](exploratory data analysis)
-[Conclusions/Summary](conclusions/summary)
-[Limitations](limitations)
-[Recommendations](recommendations)
+- [Introduction](introduction)
+- [Project Overview](project overview)
+- [Tools](tools)
+- [Data Cleaning/Preparation](data cleaning/preparation)
+- [Exploratory Data Analysis](exploratory data analysis)
+- [Conclusions/Summary](conclusions/summary)
+- [Limitations](limitations)
+- [Recommendations](recommendations)
 
  
 ### Introduction
