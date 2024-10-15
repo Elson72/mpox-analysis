@@ -47,7 +47,8 @@ EDA involved exploring the mpox africa dataset to answer key questions, such as:
  [mpox africa](https://github.com/Elson72/mpox-analysis/blob/main/mpox%20africa.ipynb)
 
  ### Dashboards
-[mpox dashboard all]()
+[mpox dashboard full](https://github.com/Elson72/mpox-analysis/blob/main/mpox%20dashboard%20all.png)
+
 
  [mpox dashboard 2022](https://github.com/Elson72/mpox-analysis/blob/main/mpox%20dashboard%202022.png)
 
