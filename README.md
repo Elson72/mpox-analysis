@@ -45,6 +45,15 @@ EDA involved exploring the mpox africa dataset to answer key questions, such as:
   Check out the full data cleaning and analysis done using python here:
   
  [mpox africa](https://github.com/Elson72/mpox-analysis/blob/main/mpox%20africa.ipynb)
+
+ ### Dashboards
+
+
+ [mpox dashboard 2022](https://github.com/Elson72/mpox-analysis/blob/main/mpox%20dashboard%202022.png)
+
+ 
+ []()
+ 
   
 
 
