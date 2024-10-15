@@ -2,10 +2,10 @@
 
 ## Outline
 - [Introduction](introduction).
-- [Project Overview](project overview).
+- [Project Overview]().
 - [Tools](tools).
-- [Data Cleaning/Preparation](Data Cleaning/Preparation).
-- [Exploratory Data Analysis](Exploratory Data Analysis).
+- [Data Cleaning/Preparation]().
+- [Exploratory Data Analysis]().
 - [Conclusions/Summary](conclusions/summary).
 - [Limitations](limitations).
 - [Recommendations](recommendations).
@@ -39,6 +39,13 @@ EDA involved exploring the mpox africa dataset to answer key questions, such as:
 1. Trend of confirmed cases for each country over the last 3years?
 2. Trend of confirmed deaths for each country over the last 3 years?
 3. What is the Case Fatality Ratio?
+
+### Data analysis
+
+  Check out the full data cleaning and analysis done using python here:
+  
+ [mpox africa](mpox africa.ipynb)
+  
 
 
 ### Conclusions/Summary
